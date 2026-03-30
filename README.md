@@ -115,6 +115,6 @@ If you have any questions, issues, or suggestions regarding this project, please
 
 -   You can always open a new [issue](https://github.com/dantudev/schulte-table-web-app/issues) or [discussion](https://github.com/dantudev/schulte-table-web-app/discussions) in this repository.
 -   For contact or special support/questions... you can contact a repository administrator:
-    -   David Antúnez Pérez: [GitHub](https://github.com/dantudev), [eMail](mailto:antunezdavid2003@gmail.com) or [Linkedin](https://www.linkedin.com/in/davidantunezperez).
+    -   David Antúnez Pérez: [GitHub](https://github.com/dantudev), [eMail](mailto:antunezdavid2003@gmail.com) or [LinkedIn](https://www.linkedin.com/in/davidantunezperez).
 
 Thank you for your interest and support!

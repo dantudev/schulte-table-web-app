@@ -2,8 +2,8 @@
 
 ## 1.0.2
 
-- Fixed dependency vulnerabilities
-- Updated user naming to match new github username `dantudev`
+-   Fixed dependency vulnerabilities
+-   Updated user naming to match new GitHub username `dantudev`
 
 ## 1.0.1
 
