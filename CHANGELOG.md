@@ -1,5 +1,10 @@
 # Project Changelog
 
+## 1.0.2
+
+- Fixed dependency vulnerabilities
+- Updated user naming to match new github username `dantudev`
+
 ## 1.0.1
 
 -   Fixed advanced resolution issues with table display and default OS zoom
