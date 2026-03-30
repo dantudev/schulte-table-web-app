@@ -1,6 +1,6 @@
 # Schulte Table Web App
 
-![Version](https://img.shields.io/badge/dynamic/json?label=version&query=$.version&url=https://raw.githubusercontent.com/DavidAntunezPerez/schulte-table-web-app/refs/heads/main/package.json&color=green)
+![Version](https://img.shields.io/badge/dynamic/json?label=version&query=$.version&url=https://raw.githubusercontent.com/dantudev/schulte-table-web-app/refs/heads/main/package.json&color=green)
 ![React](https://img.shields.io/badge/React-19.1.1-61dafb?logo=react)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-38bdf8?logo=tailwindcss)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-Frontend%20Build-646cff?logo=vite&logoColor=yellow)](https://vitejs.dev/)
@@ -51,7 +51,7 @@ Originally developed for psychology and pedagogy, it is widely used to improve p
 Clone the repository:
 
 ```
-git clone git@github.com:DavidAntunezPerez/schulte-table-web-app.git
+git clone git@github.com:dantudev/schulte-table-web-app.git
 cd schulte-table-web-app
 ```
 
@@ -113,8 +113,8 @@ VITE_EMAILJS_PUBLIC_KEY=your_public_key
 
 If you have any questions, issues, or suggestions regarding this project, please don't hesitate to reach out:
 
--   You can always open a new [issue](https://github.com/DavidAntunezPerez/schulte-table-web-app/issues) or [discussion](https://github.com/DavidAntunezPerez/schulte-table-web-app/discussions) in this repository.
+-   You can always open a new [issue](https://github.com/dantudev/schulte-table-web-app/issues) or [discussion](https://github.com/dantudev/schulte-table-web-app/discussions) in this repository.
 -   For contact or special support/questions... you can contact a repository administrator:
-    -   David Antúnez Pérez: [GitHub](https://github.com/davidantunezperez), [eMail](mailto:antunezdavid2003@gmail.com) or [Linkedin](https://www.linkedin.com/in/davidantunezperez).
+    -   David Antúnez Pérez: [GitHub](https://github.com/dantudev), [eMail](mailto:antunezdavid2003@gmail.com) or [Linkedin](https://www.linkedin.com/in/davidantunezperez).
 
 Thank you for your interest and support!
