@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback } from 'react'
 import { ModalHeader, ModalBody, ModalFooter, Button, Input, Textarea, addToast } from '@heroui/react'
 import { FaPaperPlane } from 'react-icons/fa6'
-import { sendContactEmail } from '../../../utils/email.utils'
+import { sendContactEmail } from '@/utils/email.utils'
 import packageJson from '../../../../package.json'
 
 type Props = {

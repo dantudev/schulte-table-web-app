@@ -1,5 +1,11 @@
 # Project Changelog
 
+## 1.0.1
+
+-   Fixed advanced resolution issues with table display and default OS zoom
+-   Fixed vulnerabilities related with packages and dependencies
+-   Added tsconfig path configuration shortcuts for a more readable code and updated project imports
+
 ## 1.0.0
 
 -   Fixed mobile responsivity issues and font sizes

@@ -10,12 +10,9 @@ import {
 	useDisclosure,
 } from '@heroui/react'
 import { FaCircleInfo } from 'react-icons/fa6'
-import { AppLogo } from '../../../utils/logos.utils'
+import { AppLogo } from '@/utils/logos.utils'
 import AboutModal from './AboutModal'
 import ContactModal from './ContactModal'
-
-// TODO: Add a section in about called "What is Schulte Table" to inform user
-// TODO: Update README.md for this project
 
 /**
  * AppNavbar

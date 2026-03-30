@@ -1,7 +1,7 @@
 import { ModalHeader, ModalBody, ModalFooter, Button, Divider } from '@heroui/react'
 import { FaLinkedinIn, FaGithub } from 'react-icons/fa6'
 import { TbMailFilled } from 'react-icons/tb'
-import { EMAIL_URL, GITHUB_URL, LINKEDIN_URL } from '../../../global.constants'
+import { EMAIL_URL, GITHUB_URL, LINKEDIN_URL } from '@/global.constants'
 import packageJson from '../../../../package.json'
 
 /**
